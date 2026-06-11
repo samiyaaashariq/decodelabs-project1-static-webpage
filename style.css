@@ -44,6 +44,9 @@ nav a{
 .contact{
     padding:50px;
     text-align:center;
+    width:100%;
+    clear:both;
+    margin-top:50px;
 }
 
 .card{
@@ -64,7 +67,8 @@ footer{
     background:#222;
     color:white;
     text-align:center;
-    padding:20px;
+    padding:30px;
+    margin-top:50px;
 }
 font-family:'Poppins',sans-serif;
 button:hover{
@@ -120,10 +124,4 @@ body{
     display:flex;
     justify-content:center;
     gap:20px:
-}
-#contact{
-    width:100%;
-    text-align:center;
-    margin-top:50px;
-    clear:both;
 }
